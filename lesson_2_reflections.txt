@@ -1,8 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Initializing a repository sets it up to be used by/with git. Adding the .git folder 
-which would allow for cloning and commiting changes and allowing tracking of file 
+which would allow for cloning and committing changes and allowing tracking of file 
 changes. You need to do it for the availability of version control and so git 
 would know the directory as a working one and to follow the changes made to the 
 project.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is a place for changes to be made can wait until they are ready 
+to be committed. The working directory will already have the changes made, while
+the repository will be waiting for changes. The staging area allows to to pick
+and choose what will be committed.
 
