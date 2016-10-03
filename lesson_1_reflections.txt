@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that was 
+introduced?
+
+Viewing the diff between two versions allowed me to quickly see the areas that were 
+changed since everything worked fine. This let me quickly scan the changed lines for
+potential errors without having to go through every line myself.
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+With access to previous versions you could see what kind of changes you make
+regularly and plan your new projects accordingly. This way you get to a point where
+you don't have to go back and make as many changes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google Docs
+does?
+
+Pros:
+Saved versions have logical purpose
+No incomplete lines of code
+
+Cons:
+You have to remember to do them
+
+Why do you think some version control systems, like Git, allow saving multiple files
+in one commit, while others, like Google Docs, treat each file separately?
+
+Git seems tailored to larger projects and coding, where many files are interdependant
+and would need to be changed together. Tracking changes file by file would make things
+more complicated in a coding project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log will let you see how many different versions of the project have been
+committed to the git repo, while git diff will allow you to see the differences
+between them. Using log as the history list and diff to compare them you can see 
+all of the changes done throught the history of the project.
+
+How might using version control make you more confident to make changes that could
+break something?
+
+It would be very easy to get back to a working version if something breaks. Undo can
+only carry you so far, through so many changes. With version control you can make the
+changes thought up and if it breaks just revert to previous commit.
+
+Now that you have your workspace set up, what do you wnat to try using Git for?
+
+I'm hoping to use Git for personal projects. I'm currently learning android development
+and java.
+
+

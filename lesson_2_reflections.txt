@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository sets it up to be used by/with git. Adding the .git folder 
+which would allow for cloning and commiting changes and allowing tracking of file 
+changes. You need to do it for the availability of version control and so git 
+would know the directory as a working one and to follow the changes made to the 
+project.
+
