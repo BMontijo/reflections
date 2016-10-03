@@ -14,3 +14,9 @@ to be committed. The working directory will already have the changes made, while
 the repository will be waiting for changes. The staging area allows to to pick
 and choose what will be committed.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+As long as you know the files you have changed you can stage only the files that have
+changes that make a logical commit and commit those while leaving other changed files
+for another commit.
+
