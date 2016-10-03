@@ -20,3 +20,27 @@ As long as you know the files you have changed you can stage only the files that
 changes that make a logical commit and commit those while leaving other changed files
 for another commit.
 
+What are some situations when branches would be heplful in keeping your history
+organized? How would branches help?
+
+Branches would be heplful when adding features or making any large changes that might
+not work as intended. That way one can have a stable branch and an experimental one.
+Branches also facilitate remembering what branches are what and where the commits belong
+by giving us user-friendly labels instead of trying to keep track of computer-generated
+commit IDs.
+
+How do the diagrams help you visualize the branch structure?
+
+It is easier than the list that git log provides to see how the different commits are 
+connected and how they would relate to one another. It also makes it easier to see 
+where the name branch came from. You can see the root at the start of project and the 
+varying routs it took to get to where it is.
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+Merging two branches together allows us to see and get to the commits from both
+branches while making the current commit be a project with all changes incorporated.
+The diagram converges on the merging commit showing that the new branch tip is at 
+the master branch and the previous branch is no longer active.
+
