@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all of your work local?
+
+Using a remote repositiory would be beneficial in a variety of circumstances. It can be
+used for off-site backup of your projects, allow you to work on your project from 
+different computers, allow for multiple collaborators in your office or around the
+world.
+
