@@ -44,3 +44,10 @@ branches while making the current commit be a project with all changes incorpora
 The diagram converges on the merging commit showing that the new branch tip is at 
 the master branch and the previous branch is no longer active.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pros: allows for faster workflow where conflict free mergers can be completed quickly.
+
+Cons: it cannot know all of the intended changes and needs further research to reslove
+conflicts.
+
