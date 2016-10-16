@@ -13,3 +13,11 @@ When collaborating you may not want to have everyone's changes being incorporate
 all the time. With manual pulls you can control when you pull changes and incorporate
 them to your local copy.
 
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+Forks are for using someone's project as a base for your own. Clones make a local
+copy of a repositiory so one can work on a project locally without the need to be 
+connected to the internet, or be limited by the tools available to github. Branches
+allow one to experiment with code without ruining the stable/main project. 
+
