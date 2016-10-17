@@ -36,3 +36,10 @@ room. While trying to make sure you both have time to work on the project at the
 would prove difficult. Emailing changes would require many emails and it would be difficult
 to keep track of all of the files going back and forth and which are the most recent ones.
 
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+You would make changes in a new branch when you are trying something new. That way the
+master branch can remain stable while you fine tune the new additions. While it is more
+complicated to keep branches up to date it has the benefit of not breaking things in a 
+stable version of the project.
