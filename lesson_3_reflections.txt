@@ -42,4 +42,4 @@ master? What benefits does each approach have?
 You would make changes in a new branch when you are trying something new. That way the
 master branch can remain stable while you fine tune the new additions. While it is more
 complicated to keep branches up to date it has the benefit of not breaking things in a 
-stable version of the project.
+stable version of the project. 
